@@ -16,6 +16,18 @@ header.masthead {
       line-height: 22px;
       margin-bottom: 25px;
       @include serif-font;
+      z-index: 1;
+      position: relative;
+    }
+    .intro-lead-in::before {
+      content: " ";
+      position: absolute;
+      top: 0; 
+      left: 0;
+      width: 100%; 
+      height: 100%;  
+      opacity: .8; 
+      z-index: -1;
     }
     .intro-heading {
       font-size: 50px;
@@ -23,6 +35,18 @@ header.masthead {
       line-height: 50px;
       margin-bottom: 25px;
       @include heading-font;
+      z-index: 1;
+      position: relative;
+    }
+    .intro-heading::before {
+      content: " ";
+      position: absolute;
+      top: 0; 
+      left: 0;
+      width: 100%; 
+      height: 100%;  
+      opacity: .8; 
+      z-index: -1;
     }
   }
 }
