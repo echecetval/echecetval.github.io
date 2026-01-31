@@ -17,8 +17,8 @@ remote_theme: raviriley/agency-jekyll-theme
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/siteechecs" # the subpath of your site, e.g. /blog
 
-title      : Echec et Val
-email      : siju04112001@gmail.com #this is also the email contact forms will go to
+title      : Echec & Val
+email      : echecetval@gmail.com #this is also the email contact forms will go to
 description: "Club d'échecs and more!"
 author     : JoyfullyCodingRacoon
 # logo:     #optional, defaults to site title
