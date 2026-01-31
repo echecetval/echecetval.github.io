@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Bienvenue dans notre club d'échecs
-    text: Nous sommes ravis de vous accueillir
-    button: En savoir plus
+    title: ""
+    text: ""
+    button: "Bienvenue dans notre club d'échecs<br>En savoir plus"
     buttonlink: "#services"
 
   services:
