@@ -66,9 +66,11 @@
   <header class="masthead">
     <div class="container">
       <div class="intro-text">
-          <img src="assets/img/header-bg.jpg" alt="" class="img-fluid">
 	  {%- if site.data.sitetext.header.title -%}
-        <div class="intro-lead-in">{{ site.data.sitetext.header.title | markdownify }}</div>
+        <div class="intro-lead-in">
+          <img src="assets/img/header-bg.jpg" alt="" class="img-fluid">
+          {{ site.data.sitetext.header.title | markdownify }}
+        </div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext.header.text -%}
         <div class="intro-heading text-uppercase">{{ site.data.sitetext.header.text | markdownify }}</div>
