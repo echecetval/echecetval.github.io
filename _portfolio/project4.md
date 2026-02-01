@@ -1,9 +1,9 @@
 ---
-title: Instagram
+title: Loisir
 image: assets/img/portfolio/04-full.jpg
 
 caption:
-  title: Instagram
+  title: Loisir
   thumbnail: assets/img/portfolio/04-thumbnail.jpg
 ---
-L'actualité du club sur instagram
+Loisir

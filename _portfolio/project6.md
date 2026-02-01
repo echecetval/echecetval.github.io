@@ -1,9 +1,9 @@
 ---
-title: Facebook
+title: Analyse
 image: assets/img/portfolio/06-full.jpg
 
 caption:
-  title: Facebook
+  title: Analyse
   thumbnail: assets/img/portfolio/06-thumbnail.jpg
 ---
-L'actualité du club sur facebook
+Analyse de parties
