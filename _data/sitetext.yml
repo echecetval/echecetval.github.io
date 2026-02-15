@@ -87,7 +87,6 @@ en: &DEFAULT_EN
     email: "Email*"
     email-validation: "Veuillez remplir votre email."
     phone: "Numéro de téléphone"
-    phone-validation: "Veuillez remplir votre numéro de téléphone."
     message: "Message*"
     message-validation: "Veuillez remplir votre message."
     subject: "Contact Site Web"
