@@ -71,13 +71,11 @@ en: &DEFAULT_EN
   about:
     title: "Tarifs"
     body: "Adhésion à l'association : 15 € à l'année comprenant :<br>
-           <ul>
-             <li>Un cours hebdomadaire</li>
-             <li>Un accès aux séances de jeu libre</li>
-             <li>Une gratuité pour tous les évènements du club (sauf soirées pizzas)</li>
-             <li>La licence B de la Fédération Française Des Echecs</li>
-             <li>Matériel mis à disposition (échiquiers, pendules, magazines…)</li>
-           </ul>
+             - Un cours hebdomadaire<br>
+             - Un accès aux séances de jeu libre<br>
+             - Une gratuité pour tous les évènements du club (sauf soirées pizzas)<br>
+             - La licence B de la Fédération Française Des Echecs<br>
+             - Matériel mis à disposition (échiquiers, pendules, magazines…)<br><br>
            Possibilité de prendre la licence A sur demande auprès du club"
     section: about
 
