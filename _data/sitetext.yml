@@ -58,11 +58,15 @@ en: &DEFAULT_EN
   organisation:
     title: "Horaires"
     body: "Le mercredi <br>
-           17h - 18h<br>
-           Cours débutants et jeu libre enfants (6-10 ans)<br><br>
-           18h - 19h<br>
-           Cours débutants et jeu libre ado-adultes (11 ans et +)<br><br>
-           20h15 - 22h15<br>
+           17h - 17h30<br>
+           Cours enfants (6-10 ans) niveau débutant<br><br>
+           17h30 - 18h<br>
+           Cours enfants (6-10 ans) niveau intermédiaire<br><br>
+           18h - 18h30<br>
+           Cours ado-adultes (11 ans et +) niveau débutant<br><br>
+           18h30 - 19h<br>
+           Cours ado-adultes (11 ans et +) niveau intermédiaire<br><br>
+           17h - 22h<br>
            Jeu libre pour tous<br><br>
            + des évènements certains week-ends<br>
            + des compétitions"
@@ -70,7 +74,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Tarifs"
-    body: "Adhésion à l'association : 15 € à l'année comprenant :<br>
+    body: "Adhésion à l'association : 25 € à l'année comprenant :<br>
              - Un cours hebdomadaire<br>
              - Un accès aux séances de jeu libre<br>
              - Une gratuité pour tous les évènements du club (sauf soirées pizzas)<br>

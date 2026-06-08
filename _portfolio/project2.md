@@ -10,5 +10,5 @@ Les cours ado-adultes ont lieu
 
 {:.list-inline}
 - Le mercredi
-- De 18h à 19h
-
+- De 18h à 18h30 (niveau débutant)
+- De 18h30 à 19h (niveau intermédiaire)
