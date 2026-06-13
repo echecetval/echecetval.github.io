@@ -10,5 +10,5 @@ Le jeu libre a lieu
 
 {:.list-inline}
 - Le mercredi
-- De 20h15 à 22h15
+- De 17h à 22h
 
